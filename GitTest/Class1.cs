@@ -8,5 +8,6 @@ namespace GitTest
 {
   class Class1
   {
+    public string MyFirstProp {get; set;}
   }
 }
