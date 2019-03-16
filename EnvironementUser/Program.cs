@@ -10,7 +10,8 @@ namespace EnvironementUser
   {
     static void Main(string[] args)
     {
-      Console.WriteLine(Environment.UserName);
+      var user = Environment.UserName;
+      Console.WriteLine(user);
       Console.ReadLine();
     }
   }
