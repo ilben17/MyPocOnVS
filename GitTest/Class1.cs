@@ -10,5 +10,6 @@ namespace GitTest
   {
     public string MyFirstProp {get; set;}
     public string MyFirstProp2 {get; set;}
+    public string MyFirstProp3 {get; set;}
   }
 }
